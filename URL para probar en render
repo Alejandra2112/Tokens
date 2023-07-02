@@ -1,0 +1,6 @@
+https://tokennodejs.onrender.com/api/auth/login //Obtener token 
+https://tokennodejs.onrender.com/api/people //Comprobar Inicio de sesión
+{
+  "nombre": "alejandra",
+  "password": "alejandra21"
+} //Usuario y contraseña para iniciar
